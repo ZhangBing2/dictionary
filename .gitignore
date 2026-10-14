@@ -1,0 +1,9 @@
+# generated dictionary bundle and its zip (share via a Release asset / file transfer, not git)
+LAAD3.dictionary/
+*.zip
+# build output of tools/build_laad3.py (XML project + extracted audio/images, ~1.6 GB)
+project/
+objects/
+# misc
+.DS_Store
+__pycache__/

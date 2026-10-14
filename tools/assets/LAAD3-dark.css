@@ -1,0 +1,28 @@
+  :root {
+    --fg-2: #a1a1a6;
+    --accent: #5aa9ff;
+    --hw: #6cb4ff;
+    --hw-frequent: #ff7a70;
+    --example: #a7c7ea;
+    --pos: #7fd083;
+    --gram: #7fd083;
+    --label: #d6a2ec;
+    --topic: #5fd3c1;
+    --freq: #ff7a70;
+    --rule: rgba(235, 235, 245, .18);
+    --chip-bg: rgba(90, 169, 255, .16);
+    --pill-fg: #a9c3ff;
+    --pill-bg: rgba(169, 195, 255, .09);
+    --pill-border: rgba(169, 195, 255, .38);
+    --pill-open-fg: #1c1c1e;
+    --signpost-fg: #a6cfff;
+    --signpost-bg: rgba(110, 175, 255, .15);
+    --thes: #3cc3f2;  --thes-bg: rgba(60, 195, 242, .08);
+    --collo: #b993f2; --collo-bg: rgba(185, 147, 242, .08);
+    --usage: #93a9ff; --usage-bg: rgba(147, 169, 255, .08);
+    --spoken: #ff73b8; --spoken-bg: rgba(255, 115, 184, .08);
+    --verbs: #ffa660;
+  }
+  .jp-play { background-image: url(icons/spk-hwd-dark.svg); }
+  .jp-play.spk-exa { background-image: url(icons/spk-exa-dark.svg); }
+  .fbm-cover { box-shadow: 0 2px 12px rgba(0, 0, 0, .6); }
